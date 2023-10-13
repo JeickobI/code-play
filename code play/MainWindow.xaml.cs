@@ -24,5 +24,25 @@ namespace code_play
         {
             InitializeComponent();
         }
+
+        private void play_Click(object sender, RoutedEventArgs e)
+        {
+            Play objSettings = new Play();
+            this.Visibility = Visibility.Collapsed;
+            objSettings.Show();
+
+        }
+
+        private void settings_Click(object sender, RoutedEventArgs e)
+        {
+            Window1 objSettings = new Window1();
+            this.Visibility = Visibility.Collapsed;
+            objSettings.Show();
+        }
+
+        private void quit_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
     }
 }

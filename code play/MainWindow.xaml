@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:code_play"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="MainWindow" Height="450" Width="800" Background="LightCyan">
+    <StackPanel>
+        <Button HorizontalAlignment="Center" Content="Играть" FontSize="36" Margin="0,50,0,0" FontStyle="Italic" FontWeight="DemiBold" Name="play" Click="play_Click"/>
+        <Button HorizontalAlignment="Center" Content="Настройки" FontSize="36" Margin="0,20,0,0" FontStyle="Italic" FontWeight="DemiBold" Name="settings" Click="settings_Click"/>
+        <Button HorizontalAlignment="Center" Content="Выход" FontSize="36" Margin="0,20,0,0" FontStyle="Italic" FontWeight="DemiBold" Name="quit" Click="quit_Click"/>
+    </StackPanel>
 </Window>
