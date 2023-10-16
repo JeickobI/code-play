@@ -1,0 +1,116 @@
+C:\Users\student\Documents\Практика\code play\code play\bin\Debug\code play.exe.config
+C:\Users\student\Documents\Практика\code play\code play\bin\Debug\code play.exe
+C:\Users\student\Documents\Практика\code play\code play\bin\Debug\code play.pdb
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\code play.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\MainWindow.g.cs
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\App.g.cs
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\code play_MarkupCompile.cache
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\code play_MarkupCompile.lref
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\MainWindow.baml
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\code play.g.resources
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\code_play.Properties.Resources.resources
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\code play.csproj.GenerateResource.cache
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\code play.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\code play.exe
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\code play.pdb
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\Settings.g.cs
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\Settings.baml
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\Play.g.cs
+C:\Users\student\Documents\Практика\code play\code play\obj\Debug\Play.baml
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code play.csproj.AssemblyReference.cache
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code play.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\Game.g.cs
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\MainWindow.g.cs
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\Play.g.cs
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\Settings.g.cs
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\App.g.cs
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code play_Content.g.cs
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code play_MarkupCompile.cache
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code play_MarkupCompile.lref
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code play.exe
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code play.pdb
+C:\Users\Chern\Desktop\практика\code play\code play\bin\Debug\reg.mdf
+C:\Users\Chern\Desktop\практика\code play\code play\bin\Debug\reg_log.ldf
+C:\Users\Chern\Desktop\практика\code play\code play\bin\Debug\code play.exe
+C:\Users\Chern\Desktop\практика\code play\code play\bin\Debug\code play.pdb
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\MainWindow.baml
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\Play.baml
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\Settings.baml
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\Game.baml
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code play.g.resources
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code_play.Properties.Resources.resources
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code play.csproj.GenerateResource.cache
+C:\Users\Chern\Desktop\практика\code play\code play\obj\Debug\code play.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\практика\code play\code play\bin\Debug\Database1.mdf
+C:\Users\student\Desktop\практика\code play\code play\bin\Debug\Database1_log.ldf
+C:\Users\student\Desktop\практика\code play\code play\bin\Debug\reg.mdf
+C:\Users\student\Desktop\практика\code play\code play\bin\Debug\reg_log.ldf
+C:\Users\student\Desktop\практика\code play\code play\bin\Debug\code play.exe
+C:\Users\student\Desktop\практика\code play\code play\bin\Debug\code play.pdb
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\code play.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\Game.g.cs
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\Play.g.cs
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\Settings.g.cs
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\App.g.cs
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\code play_Content.g.cs
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\code play_MarkupCompile.cache
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\code play_MarkupCompile.lref
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\Game.baml
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\Play.baml
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\Settings.baml
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\code play.g.resources
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\code_play.Properties.Resources.resources
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\code play.csproj.GenerateResource.cache
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\code play.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\code play.exe
+C:\Users\student\Desktop\практика\code play\code play\obj\Debug\code play.pdb
+E:\Новая папка (2)\практика21\code play\code play\bin\Debug\Database1.mdf
+E:\Новая папка (2)\практика21\code play\code play\bin\Debug\Database1_log.ldf
+E:\Новая папка (2)\практика21\code play\code play\bin\Debug\code play.exe
+E:\Новая папка (2)\практика21\code play\code play\bin\Debug\code play.pdb
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code play.csproj.AssemblyReference.cache
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code play.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\Game.g.cs
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\MainWindow.g.cs
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\Play.g.cs
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\Settings.g.cs
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\App.g.cs
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code play_Content.g.cs
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code play_MarkupCompile.cache
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code play_MarkupCompile.lref
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\Game.baml
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\MainWindow.baml
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\Play.baml
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\Settings.baml
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code play.g.resources
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code_play.Properties.Resources.resources
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code play.csproj.GenerateResource.cache
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code play.csproj.CoreCompileInputs.cache
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code play.exe
+E:\Новая папка (2)\практика21\code play\code play\obj\Debug\code play.pdb
+C:\Users\Chern\Desktop\code play\code play\bin\Debug\Database1.mdf
+C:\Users\Chern\Desktop\code play\code play\bin\Debug\Database1_log.ldf
+C:\Users\Chern\Desktop\code play\code play\bin\Debug\code play.exe
+C:\Users\Chern\Desktop\code play\code play\bin\Debug\code play.pdb
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code play.csproj.AssemblyReference.cache
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code play.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\Game.g.cs
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\MainWindow.g.cs
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\Play.g.cs
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\Settings.g.cs
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\App.g.cs
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code play_Content.g.cs
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code play_MarkupCompile.cache
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code play_MarkupCompile.lref
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\Game.baml
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\MainWindow.baml
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\Play.baml
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\Settings.baml
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code play.g.resources
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code_play.Properties.Resources.resources
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code play.csproj.GenerateResource.cache
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code play.csproj.CoreCompileInputs.cache
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code play.exe
+C:\Users\Chern\Desktop\code play\code play\obj\Debug\code play.pdb
